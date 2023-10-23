@@ -1,0 +1,100 @@
+201	No thanks, I'm ok.
+202	How’s it goin?
+203	Have a good trip.
+204	Don’t worry.
+205	How old are you?
+206	My name is Jack
+207	I am busy.
+208	I am sorry!
+209	Be careful near that.
+210	It was really good!
+211	Stop kidding around.
+212	Nice to meet you.
+213	I agree.
+214	You are green?
+215	I sneezed hard. 
+216	I do not understand.
+217	It really takes time.
+218	What is your name?
+219	How do you feel about it?
+220	I am not really sure.
+221	You inspire me.
+222	Are you there?
+223	What’s for lunch today?
+224	I need a little help.
+225	Nice to see you again.
+226	I am afraid you are right.
+227	Can I ask you something?
+228	I feel much better!
+229	Glad to meet you.
+230	Have a good trip.
+231	Everything is fine.
+232	You are everything to me.
+233	How dare you say that!
+234	Keep it there!
+235	I am very grateful to you.
+236	You are everything I hate.
+237	I have no idea.
+238	How was your weekend?
+239	I am happy about this?
+240	Sorry for the inconvenience.
+241	You are wasting my time.
+242	I really appreciate it.
+243	Nothing special.
+244	You do it yourself.
+245	Please help yourself.
+246	Please say something.
+247	You are so lucky.
+248	Have a nice day!
+249	Keep it under wraps.
+250	Can I come tomorrow?
+251	I haven’t told anyone.
+252	Tell me how it works.
+253	It was nice to talk with you.
+254	Talk to you later.
+255	Thank you for inviting us.
+256	Allow me to introduce myself.
+257	It's really taking time. 
+258	You are beautiful.
+259	Choose whatever you want.
+260	Don’t be afraid.
+261	Where do you want to go?
+262	I am not sure yet.
+263	I am really well.
+264	Why is it yellow?
+265	That’s absolutely fine.
+266	You are so adorable.
+267	It’s none of my business.
+268	I feel much better.
+269	It is none of your business.
+270	How is your family?
+271	No thanks, I am okay.
+272	It’s very thoughtful for you.
+273	Don’t make noise.
+274	Listen to your elders.
+275	It is not true.
+276	Sorry, I didn’t catch that.
+277	What is happening here?
+278	Please say something.
+279	Hope to see you next time.
+280	I am slightly hungry.
+281	I don’t like it.
+282	No, not at all.
+283	What is the matter?
+284	Don’t be so excited.
+285	Have some patience.
+286	I am very pleased to meet you.
+287	Well done! Keep it up!
+288	This is not a joke.
+289	I am very familiar with him.
+290	I shall welcome to guest.
+291	Stay within your limits.
+292	I do not agree with you.
+293	Wait for your turn.
+294	May I go out?
+295	Can you explain that again?
+296	Thanks a lot.
+297	It is okay.
+298	Call me back in 10 minutes.
+299	I don’t know how that works
+300	How are you?

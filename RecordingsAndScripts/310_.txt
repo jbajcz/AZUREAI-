@@ -1,0 +1,10 @@
+301	I cannot do that!
+302	You suck!
+303	This is ridiculous!
+304	You are the worst!
+305	Call me back!
+306	Wait for your turn!
+307	Stay right there!
+308	You broke it!
+309	He cannot do that!
+310	You are not allowed to!
